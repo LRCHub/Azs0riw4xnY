@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Horizon",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:18:58.044450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On the Horizon - Mono",
+      "artist": "Ben E. King",
+      "has_synced": false,
+      "path": "select/01_On_the_Horizon_-_Mono_Ben_E._King.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On the Horizon",
+      "artist": "Ben E. King",
+      "has_synced": true,
+      "path": "select/02_On_the_Horizon_Ben_E._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Horizon Is a Beltway",
+      "artist": "The Low Anthem",
+      "has_synced": false,
+      "path": "select/03_The_Horizon_Is_a_Beltway_The_Low_Anthem.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Old Horizon",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/04_The_Old_Horizon_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Horizon",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/05_Horizon_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Horizon - Poolside Remix",
+      "artist": "Tycho feat. Poolside",
+      "has_synced": false,
+      "path": "select/06_Horizon_-_Poolside_Remix_Tycho_feat._Poolside.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Line On The Horizon",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/07_No_Line_On_The_Horizon_U2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Line On The Horizon - 2",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_No_Line_On_The_Horizon_-_2_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Line ON The Horizon 2",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/09_No_Line_ON_The_Horizon_2_U2.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost Horizon",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/10_Lost_Horizon_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Horizon Flame",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/11_Horizon_Flame_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Flat Horizon",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/12_The_Flat_Horizon_Wang_Chung.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heartbreak Horizon",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/13_Heartbreak_Horizon_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Horizon",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/14_Horizon_Culture_Beat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Horizon",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_Horizon_内田雄馬.txt"
+    }
+  ]
+}
